@@ -1,5 +1,5 @@
-# automate_the_boring_stuff
+# Automate the Boring Stuff
 
-These files were created while working through the exercises in the book Automate the Boring Stuff by Al Sweigart.
+These files were created while working through the exercises in the book [Automate the Boring Stuff](https://automatetheboringstuff.com/) by Al Sweigart.
 
-https://automatetheboringstuff.com/
+
