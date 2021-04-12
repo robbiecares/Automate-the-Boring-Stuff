@@ -1,0 +1,38 @@
+tableData = [['apples', 'oranges', 'cherries', 'banana'],
+             ['Alice', 'Bob', 'Carol', 'David'],
+             ['dogs', 'cats', 'moose', 'goose'],
+             ['white', 'black', 'green', 'blue']]
+
+def printTable(tableData):
+    colWidths = [0] * len(tableData)
+    maxlens = []
+    x = 0
+    for list in tableData:
+        lens = []
+        for item in list:
+            lens.append(len(item))
+        colWidths[x] = (max(lens) + 1)
+        x += 1
+
+    listpos = 0
+    colwpos = 0
+    row = ""
+    rows = []
+    i = 1
+
+    while i <= (len(tableData[0])):
+        for list in tableData:
+            item = list[listpos].rjust(colWidths[colwpos])
+            row += item
+            colwpos += 1
+        rows.append(row)
+        row = ""
+        colwpos = 0
+        listpos += 1
+        i += 1
+
+    for string in rows:
+        string = string[1:]
+        print(string)
+
+printTable(tableData)

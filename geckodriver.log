@@ -1,0 +1,38 @@
+1615536266974	geckodriver	INFO	Listening on 127.0.0.1:62348
+1615536270021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Betty\\AppData\\Local\\Temp\\rust_mozprofileNTFMFh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615536272462	Marionette	INFO	Listening on port 62357
+1615536272697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615536869994	Marionette	INFO	Stopped listening on port 62357
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615537174070	geckodriver	INFO	Listening on 127.0.0.1:62835
+1615537177093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Betty\\AppData\\Local\\Temp\\rust_mozprofileEg6NG2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615537179476	Marionette	INFO	Listening on port 62843
+1615537179754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615537422890	Marionette	INFO	Stopped listening on port 62843
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Betty\\AppData\\Local\\Temp\\rust_mozprofilerHVCpH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615537208485	Marionette	INFO	Listening on port 62896
+1615537208865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615537218783	Marionette	INFO	Stopped listening on port 62896
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615537958508	geckodriver	INFO	Listening on 127.0.0.1:63189
+1615537961570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Betty\\AppData\\Local\\Temp\\rust_mozprofile2FOLhm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615537963820	Marionette	INFO	Listening on port 63199
+1615537964224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615538232892	Marionette	INFO	Stopped listening on port 63199
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

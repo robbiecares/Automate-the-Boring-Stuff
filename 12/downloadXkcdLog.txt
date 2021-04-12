@@ -1,0 +1,7 @@
+2021-03-09 12:02:41.612949 - https://xkcd.com/2198/ - could not find image
+2021-03-09 12:03:24.957795 - https:/2067/asset/challengers_header.png - invalid url
+2021-03-09 12:09:21.647980 - https://xkcd.com/1663/ - could not find image
+2021-03-09 12:10:09.060031 - https://xkcd.com/1608/ - could not find image
+2021-03-09 12:11:24.385143 - https:/1525/bg.png - invalid url
+2021-03-09 12:13:00.010396 - https://xkcd.com/1416/ - could not find image
+2021-03-09 12:13:46.621683 - https://xkcd.com/1350/ - could not find image
